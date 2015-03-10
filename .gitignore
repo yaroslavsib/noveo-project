@@ -27,3 +27,9 @@ phpunit.phar
 /phpunit.xml
 
 /composer.lock
+
+/backend/runtime
+/backend/web/assets
+/frontend/runtime
+/frontend/web/assets
+/console/runtime
